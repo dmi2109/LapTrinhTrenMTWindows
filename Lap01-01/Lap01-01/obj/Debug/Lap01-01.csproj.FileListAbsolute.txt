@@ -1,0 +1,7 @@
+C:\Users\Luong Vinh\Desktop\Mai Diệu Mi\Lập Trình Trên MT Window\Lap01-01\Lap01-01\bin\Debug\Lap01-01.exe.config
+C:\Users\Luong Vinh\Desktop\Mai Diệu Mi\Lập Trình Trên MT Window\Lap01-01\Lap01-01\bin\Debug\Lap01-01.exe
+C:\Users\Luong Vinh\Desktop\Mai Diệu Mi\Lập Trình Trên MT Window\Lap01-01\Lap01-01\bin\Debug\Lap01-01.pdb
+C:\Users\Luong Vinh\Desktop\Mai Diệu Mi\Lập Trình Trên MT Window\Lap01-01\Lap01-01\obj\Debug\Lap01-01.csproj.AssemblyReference.cache
+C:\Users\Luong Vinh\Desktop\Mai Diệu Mi\Lập Trình Trên MT Window\Lap01-01\Lap01-01\obj\Debug\Lap01-01.csproj.CoreCompileInputs.cache
+C:\Users\Luong Vinh\Desktop\Mai Diệu Mi\Lập Trình Trên MT Window\Lap01-01\Lap01-01\obj\Debug\Lap01-01.exe
+C:\Users\Luong Vinh\Desktop\Mai Diệu Mi\Lập Trình Trên MT Window\Lap01-01\Lap01-01\obj\Debug\Lap01-01.pdb
