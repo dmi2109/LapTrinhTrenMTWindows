@@ -1,0 +1,10 @@
+C:\Users\Luong Vinh\Desktop\Mai Diệu Mi\Lập Trình Trên MT Window\BaiTap03\DemoMyClass\bin\Debug\DemoMyClass.exe.config
+C:\Users\Luong Vinh\Desktop\Mai Diệu Mi\Lập Trình Trên MT Window\BaiTap03\DemoMyClass\bin\Debug\DemoMyClass.exe
+C:\Users\Luong Vinh\Desktop\Mai Diệu Mi\Lập Trình Trên MT Window\BaiTap03\DemoMyClass\bin\Debug\DemoMyClass.pdb
+C:\Users\Luong Vinh\Desktop\Mai Diệu Mi\Lập Trình Trên MT Window\BaiTap03\DemoMyClass\obj\Debug\DemoMyClass.csproj.AssemblyReference.cache
+C:\Users\Luong Vinh\Desktop\Mai Diệu Mi\Lập Trình Trên MT Window\BaiTap03\DemoMyClass\obj\Debug\DemoMyClass.frmDemoMyClass.resources
+C:\Users\Luong Vinh\Desktop\Mai Diệu Mi\Lập Trình Trên MT Window\BaiTap03\DemoMyClass\obj\Debug\DemoMyClass.Properties.Resources.resources
+C:\Users\Luong Vinh\Desktop\Mai Diệu Mi\Lập Trình Trên MT Window\BaiTap03\DemoMyClass\obj\Debug\DemoMyClass.csproj.GenerateResource.cache
+C:\Users\Luong Vinh\Desktop\Mai Diệu Mi\Lập Trình Trên MT Window\BaiTap03\DemoMyClass\obj\Debug\DemoMyClass.csproj.CoreCompileInputs.cache
+C:\Users\Luong Vinh\Desktop\Mai Diệu Mi\Lập Trình Trên MT Window\BaiTap03\DemoMyClass\obj\Debug\DemoMyClass.exe
+C:\Users\Luong Vinh\Desktop\Mai Diệu Mi\Lập Trình Trên MT Window\BaiTap03\DemoMyClass\obj\Debug\DemoMyClass.pdb

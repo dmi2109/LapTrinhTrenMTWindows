@@ -1,0 +1,10 @@
+C:\Users\Luong Vinh\Desktop\Mai Diệu Mi\Lập Trình Trên MT Window\BaiTap03\ListViewDemo\bin\Debug\ListViewDemo.exe.config
+C:\Users\Luong Vinh\Desktop\Mai Diệu Mi\Lập Trình Trên MT Window\BaiTap03\ListViewDemo\bin\Debug\ListViewDemo.exe
+C:\Users\Luong Vinh\Desktop\Mai Diệu Mi\Lập Trình Trên MT Window\BaiTap03\ListViewDemo\bin\Debug\ListViewDemo.pdb
+C:\Users\Luong Vinh\Desktop\Mai Diệu Mi\Lập Trình Trên MT Window\BaiTap03\ListViewDemo\obj\Debug\ListViewDemo.csproj.AssemblyReference.cache
+C:\Users\Luong Vinh\Desktop\Mai Diệu Mi\Lập Trình Trên MT Window\BaiTap03\ListViewDemo\obj\Debug\ListViewDemo.Form1.resources
+C:\Users\Luong Vinh\Desktop\Mai Diệu Mi\Lập Trình Trên MT Window\BaiTap03\ListViewDemo\obj\Debug\ListViewDemo.Properties.Resources.resources
+C:\Users\Luong Vinh\Desktop\Mai Diệu Mi\Lập Trình Trên MT Window\BaiTap03\ListViewDemo\obj\Debug\ListViewDemo.csproj.GenerateResource.cache
+C:\Users\Luong Vinh\Desktop\Mai Diệu Mi\Lập Trình Trên MT Window\BaiTap03\ListViewDemo\obj\Debug\ListViewDemo.csproj.CoreCompileInputs.cache
+C:\Users\Luong Vinh\Desktop\Mai Diệu Mi\Lập Trình Trên MT Window\BaiTap03\ListViewDemo\obj\Debug\ListViewDemo.exe
+C:\Users\Luong Vinh\Desktop\Mai Diệu Mi\Lập Trình Trên MT Window\BaiTap03\ListViewDemo\obj\Debug\ListViewDemo.pdb

@@ -1,0 +1,10 @@
+C:\Users\Luong Vinh\Desktop\Mai Diệu Mi\Lập Trình Trên MT Window\BaiTap03\BaiTap03\bin\Debug\BaiTap03.exe.config
+C:\Users\Luong Vinh\Desktop\Mai Diệu Mi\Lập Trình Trên MT Window\BaiTap03\BaiTap03\bin\Debug\BaiTap03.exe
+C:\Users\Luong Vinh\Desktop\Mai Diệu Mi\Lập Trình Trên MT Window\BaiTap03\BaiTap03\bin\Debug\BaiTap03.pdb
+C:\Users\Luong Vinh\Desktop\Mai Diệu Mi\Lập Trình Trên MT Window\BaiTap03\BaiTap03\obj\Debug\BaiTap03.csproj.AssemblyReference.cache
+C:\Users\Luong Vinh\Desktop\Mai Diệu Mi\Lập Trình Trên MT Window\BaiTap03\BaiTap03\obj\Debug\BaiTap03.Properties.Resources.resources
+C:\Users\Luong Vinh\Desktop\Mai Diệu Mi\Lập Trình Trên MT Window\BaiTap03\BaiTap03\obj\Debug\BaiTap03.csproj.GenerateResource.cache
+C:\Users\Luong Vinh\Desktop\Mai Diệu Mi\Lập Trình Trên MT Window\BaiTap03\BaiTap03\obj\Debug\BaiTap03.csproj.CoreCompileInputs.cache
+C:\Users\Luong Vinh\Desktop\Mai Diệu Mi\Lập Trình Trên MT Window\BaiTap03\BaiTap03\obj\Debug\BaiTap03.exe
+C:\Users\Luong Vinh\Desktop\Mai Diệu Mi\Lập Trình Trên MT Window\BaiTap03\BaiTap03\obj\Debug\BaiTap03.pdb
+C:\Users\Luong Vinh\Desktop\Mai Diệu Mi\Lập Trình Trên MT Window\BaiTap03\BaiTap03\obj\Debug\BaiTap03.frmBaiTapHoTen.resources
