@@ -1,0 +1,11 @@
+C:\Users\Luong Vinh\source\repos\Buoi4\DemoMDI\bin\Debug\DemoMDI.exe.config
+C:\Users\Luong Vinh\source\repos\Buoi4\DemoMDI\bin\Debug\DemoMDI.exe
+C:\Users\Luong Vinh\source\repos\Buoi4\DemoMDI\bin\Debug\DemoMDI.pdb
+C:\Users\Luong Vinh\source\repos\Buoi4\DemoMDI\obj\Debug\DemoMDI.csproj.AssemblyReference.cache
+C:\Users\Luong Vinh\source\repos\Buoi4\DemoMDI\obj\Debug\DemoMDI.frmPicView.resources
+C:\Users\Luong Vinh\source\repos\Buoi4\DemoMDI\obj\Debug\DemoMDI.Form2.resources
+C:\Users\Luong Vinh\source\repos\Buoi4\DemoMDI\obj\Debug\DemoMDI.Properties.Resources.resources
+C:\Users\Luong Vinh\source\repos\Buoi4\DemoMDI\obj\Debug\DemoMDI.csproj.GenerateResource.cache
+C:\Users\Luong Vinh\source\repos\Buoi4\DemoMDI\obj\Debug\DemoMDI.csproj.CoreCompileInputs.cache
+C:\Users\Luong Vinh\source\repos\Buoi4\DemoMDI\obj\Debug\DemoMDI.exe
+C:\Users\Luong Vinh\source\repos\Buoi4\DemoMDI\obj\Debug\DemoMDI.pdb
