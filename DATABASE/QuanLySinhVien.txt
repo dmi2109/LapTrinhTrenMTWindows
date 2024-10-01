@@ -1,0 +1,21 @@
+create database QLSV
+use QLSV
+use master
+drop database QuanLySV
+create table Student
+(
+	StudentID char(10) primary key not null,
+	FullName nvarchar(30) not null,
+	AverageScore float not null,
+	FacultyID int constraint FK_SV_ML foreign key references Faculty(FacultyID) not null ,
+)
+
+create table Faculty
+(
+	FacultyID int primary key not null,
+	FacultyName nvarchar(30) not null
+)
+
+select StudentID, FullName, AverageScore, FacultyName
+from Student, Faculty
+where Student.FacultyID = Faculty.FacultyID
