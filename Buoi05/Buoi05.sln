@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoADO.NET", "Bai1\DemoADO.NET.csproj", "{C6BB1401-892C-40CE-8DE8-74797CCF2BEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiTapBuoi5", "BaiTapBuoi5\BaiTapBuoi5.csproj", "{51F0D11D-1428-40A2-8FE1-6A893373B8F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6BB1401-892C-40CE-8DE8-74797CCF2BEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6BB1401-892C-40CE-8DE8-74797CCF2BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6BB1401-892C-40CE-8DE8-74797CCF2BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6BB1401-892C-40CE-8DE8-74797CCF2BEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51F0D11D-1428-40A2-8FE1-6A893373B8F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51F0D11D-1428-40A2-8FE1-6A893373B8F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51F0D11D-1428-40A2-8FE1-6A893373B8F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51F0D11D-1428-40A2-8FE1-6A893373B8F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7050ACD8-6CD6-424F-801A-C647B716A932}
+	EndGlobalSection
+EndGlobal

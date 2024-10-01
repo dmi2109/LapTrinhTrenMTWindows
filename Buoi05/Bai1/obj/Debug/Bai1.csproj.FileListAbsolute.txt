@@ -1,0 +1,10 @@
+C:\Users\Luong Vinh\OneDrive\Máy tính\Mai Diệu Mi\Lập Trình Trên MT Window\Buoi05\Bai1\bin\Debug\Bai1.exe.config
+C:\Users\Luong Vinh\OneDrive\Máy tính\Mai Diệu Mi\Lập Trình Trên MT Window\Buoi05\Bai1\bin\Debug\Bai1.exe
+C:\Users\Luong Vinh\OneDrive\Máy tính\Mai Diệu Mi\Lập Trình Trên MT Window\Buoi05\Bai1\bin\Debug\Bai1.pdb
+C:\Users\Luong Vinh\OneDrive\Máy tính\Mai Diệu Mi\Lập Trình Trên MT Window\Buoi05\Bai1\obj\Debug\Bai1.csproj.AssemblyReference.cache
+C:\Users\Luong Vinh\OneDrive\Máy tính\Mai Diệu Mi\Lập Trình Trên MT Window\Buoi05\Bai1\obj\Debug\Bai1.Form1.resources
+C:\Users\Luong Vinh\OneDrive\Máy tính\Mai Diệu Mi\Lập Trình Trên MT Window\Buoi05\Bai1\obj\Debug\Bai1.Properties.Resources.resources
+C:\Users\Luong Vinh\OneDrive\Máy tính\Mai Diệu Mi\Lập Trình Trên MT Window\Buoi05\Bai1\obj\Debug\Bai1.csproj.GenerateResource.cache
+C:\Users\Luong Vinh\OneDrive\Máy tính\Mai Diệu Mi\Lập Trình Trên MT Window\Buoi05\Bai1\obj\Debug\Bai1.csproj.CoreCompileInputs.cache
+C:\Users\Luong Vinh\OneDrive\Máy tính\Mai Diệu Mi\Lập Trình Trên MT Window\Buoi05\Bai1\obj\Debug\Bai1.exe
+C:\Users\Luong Vinh\OneDrive\Máy tính\Mai Diệu Mi\Lập Trình Trên MT Window\Buoi05\Bai1\obj\Debug\Bai1.pdb
